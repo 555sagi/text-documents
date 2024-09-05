@@ -1,0 +1,21 @@
+creating express app
+step1 installing the express
+step2 utlizing the express app
+step3 creating express app
+step4 creating .env file for enviroment variables 
+step5 utilizing the enviroment variables
+step5 creating: individual routers
+step6 using the routers in the main file
+step7 creating middleware controllers to handle the req
+step8: and utilizing the these middlewaes  in the routers
+step9: creating body-parsser using the express app
+step10 telling 
+
+
+
+using mongoose
+step1: creating mongoose connection
+step2: calling the connection in the main file 
+step3: creating mongoose schema 
+step4: creating model
+step5: using the model and saving the date using monggose  methods 
